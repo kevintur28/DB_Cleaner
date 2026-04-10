@@ -1331,3 +1331,4 @@ from cliente
 where ciudad = 'Madrid'
 and (codigo_empleado_rep_ventas = 11 
        or codigo_empleado_rep_ventas = 30);
+
